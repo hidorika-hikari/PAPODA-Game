@@ -2,10 +2,10 @@
 
 ###
 
-● Developed a 2D game where players control a character using arrow keys to navigate levels and find the exit.
-● Design the game to be Pixel Art
-● The map or area in the game is designed to have many themes and is complex to play.
-● My job is design character animation: attack, run, turn-left/right, map design: level structure, obstacle placement, enemy spawning, item placement. elements and objects: interactive objects, environmental elements, enemy/player character.
+● Developed a 2D game where players control a character using arrow keys to navigate levels and find the exit.<br>
+● Design the game to be Pixel Art.<br>
+● The map or area in the game is designed to have many themes and is complex to play.<br>
+● My job is design character animation: attack, run, turn-left/right, map design: level structure, obstacle placement, enemy spawning, item placement. elements and objects: interactive objects, environmental elements, enemy/player character.<br>
 
 <h2 align="left">Languages and Tools:</h2>
 
